@@ -90,9 +90,9 @@ function Navigation({ onDemoClick }: { onDemoClick: () => void }) {
       <nav className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         {/* Logo */}
         <a href="/" className="flex items-center gap-3 group">
-          <div className="h-10 w-auto overflow-hidden">
+          <div className="h-12 w-auto overflow-hidden">
             <img
-              src="/assets/uploads/Untitled-design-5--1.png"
+              src="/assets/uploads/Gemini_Generated_Image_5y1dsk5y1dsk5y1d-2--1.png"
               alt="MEDEN RESILIENCE Logo"
               className="h-full w-auto object-contain"
             />
@@ -1059,9 +1059,9 @@ function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <div className="h-10 w-auto overflow-hidden">
+              <div className="h-12 w-auto overflow-hidden">
                 <img
-                  src="/assets/uploads/Untitled-design-5--1.png"
+                  src="/assets/uploads/Gemini_Generated_Image_5y1dsk5y1dsk5y1d-2--1.png"
                   alt="MEDEN RESILIENCE Logo"
                   className="h-full w-auto object-contain"
                 />
